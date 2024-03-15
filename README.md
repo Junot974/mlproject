@@ -1,1 +1,1 @@
-#ml projects for Canada
+#ml projects training
